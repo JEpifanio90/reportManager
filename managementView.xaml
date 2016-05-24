@@ -1,0 +1,35 @@
+﻿<Window x:Class="Report_Manager.managementView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Report_Manager"
+        mc:Ignorable="d"
+         Title="Incoming Requests" Height="318" Width="973" Background="Gray" HorizontalContentAlignment="Center" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="829*"/>
+            <ColumnDefinition Width="137*"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="requestList" HorizontalAlignment="Left" Height="204" Margin="10,10,0,0" VerticalAlignment="Top" Width="948" SelectionChanged="listView_SelectionChanged" Grid.ColumnSpan="2">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Status" DisplayMemberBinding="{Binding status}" Width="80"/>
+                    <GridViewColumn Header="Orden de Compra" DisplayMemberBinding="{Binding requestID}" Width="120"/>
+                    <GridViewColumn Header="No. de Guía" DisplayMemberBinding="{Binding trackID}" Width="100"/>
+                    <GridViewColumn Header="Carrier" DisplayMemberBinding="{Binding carrier}" Width="80"/>
+                    <GridViewColumn Header="Descripción" DisplayMemberBinding="{Binding description}"  Width="120"/>
+                    <GridViewColumn Header="Comprador" DisplayMemberBinding="{Binding buyer}" Width="80"/>
+                    <GridViewColumn Header="Departamento" DisplayMemberBinding="{Binding department}" Width="80"/>
+                    <GridViewColumn Header="Gastos" DisplayMemberBinding="{Binding spentMoney}" Width="80"/>
+                    <GridViewColumn Header="No. de archivos" DisplayMemberBinding="{Binding filesUploaded}" Width="120"/>
+                    <GridViewColumn Header="Fecha Promesa" DisplayMemberBinding="{Binding deliverDate}" Width="120"/>
+                    <GridViewColumn Header="Fecha de entrega" DisplayMemberBinding="{Binding realDeliverDate}" Width="120"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="sendThem" Content="Crear Reportes" HorizontalAlignment="Left" Margin="26.4,245,0,0" VerticalAlignment="Top" Width="102" Click="sendIt_Click" Grid.Column="1"/>
+        <Button x:Name="goBack" Content="Salir" HorizontalAlignment="Left" Margin="10,245,0,0" VerticalAlignment="Top" Width="75" Click="exit_Click"/>
+        <Button x:Name="updateTable" Content="Actualizar" HorizontalAlignment="Left" Margin="400,245,0,0" VerticalAlignment="Top" Width="75" Click="updateTable_Click"/>
+    </Grid>
+</Window>

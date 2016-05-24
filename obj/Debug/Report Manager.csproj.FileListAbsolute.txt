@@ -1,0 +1,29 @@
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\bin\Debug\Report Manager.exe.config
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.csprojResolveAssemblyReference.cache
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\authView.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\MainWindow.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\managementView.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\newUser.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\receivedView.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\userView.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\App.g.cs
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager_MarkupCompile.cache
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager_MarkupCompile.lref
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\bin\Debug\Report Manager.exe
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\bin\Debug\Report Manager.pdb
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\bin\Debug\MySql.Data.dll
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\authView.baml
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\MainWindow.baml
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\managementView.baml
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\newUser.baml
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\receivedView.baml
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\userView.baml
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.g.resources
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report_Manager.Properties.Resources.resources
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.csproj.GenerateResource.Cache
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.exe
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.pdb
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\bin\Debug\Report Manager.exe.manifest
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\bin\Debug\Report Manager.application
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.exe.manifest
+C:\Users\jose-\Desktop\Programming\CSharp\Report Manager\obj\Debug\Report Manager.application
